@@ -35,3 +35,14 @@ footer {
 	width: 50%;
 	margin: 100px auto;
 }
+
+.left-footer a {
+	display: inline-block ;
+}
+
+.footer-disclosure {
+	color: grey;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 12px;
+}
